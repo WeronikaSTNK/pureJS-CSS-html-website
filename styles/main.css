@@ -1,11 +1,28 @@
 
 body {
-  font-family: 'Open Sans', sans-serif;
-  margin: 3em;
-  padding: 2em;
-
+font-family: 'Open Sans', sans-serif;
+margin: 3em;
+padding: 2em;
 }
-img{
-  width: 20vw;
-  height: auto;
+img {
+width: 20vw;
+height: auto;
+}
+
+p {
+margin: 5px;
+padding: 10px;
+}
+
+h2 {
+color:white;
+font-size: 1.2em;
+overflow-wrap: break-word;
+text-align: center;
+}
+h3{
+  margin:10px
+}
+span{
+  font-size: 1em;
 }
